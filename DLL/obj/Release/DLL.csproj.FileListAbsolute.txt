@@ -1,0 +1,5 @@
+D:\Tiedostot\GitHub\FinalWork\DLL\bin\Release\DLL.dll
+D:\Tiedostot\GitHub\FinalWork\DLL\bin\Release\DLL.pdb
+D:\Tiedostot\GitHub\FinalWork\DLL\obj\Release\DLL.csprojResolveAssemblyReference.cache
+D:\Tiedostot\GitHub\FinalWork\DLL\obj\Release\DLL.dll
+D:\Tiedostot\GitHub\FinalWork\DLL\obj\Release\DLL.pdb

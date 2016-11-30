@@ -1,0 +1,8 @@
+D:\Tiedostot\GitHub\FinalWork\FinalWork\bin\Release\FinalWork.exe.config
+D:\Tiedostot\GitHub\FinalWork\FinalWork\bin\Release\FinalWork.exe
+D:\Tiedostot\GitHub\FinalWork\FinalWork\bin\Release\FinalWork.pdb
+D:\Tiedostot\GitHub\FinalWork\FinalWork\bin\Release\DLL.dll
+D:\Tiedostot\GitHub\FinalWork\FinalWork\bin\Release\DLL.pdb
+D:\Tiedostot\GitHub\FinalWork\FinalWork\obj\Release\FinalWork.csprojResolveAssemblyReference.cache
+D:\Tiedostot\GitHub\FinalWork\FinalWork\obj\Release\FinalWork.exe
+D:\Tiedostot\GitHub\FinalWork\FinalWork\obj\Release\FinalWork.pdb
