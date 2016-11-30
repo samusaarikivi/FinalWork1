@@ -1,6 +1,12 @@
 # FinalWork1
 Final work for Software Testing and Maintenance  (Maintenance part)<br/>
 
+ Download and unzip files above, <br/>
+  DLL and FinalWork folders has all the sources.<br/>
+  Doxygen documentation is in Doxygen folder.</br>
+  release.exe folder has FinalWork.exe that can be used to launch app.
+  <br/><br/>
+
 Instructions:<br/>
   With cmd navigate to Exe folder, enter FinalWork to use application.
   <br/>
@@ -10,10 +16,7 @@ Instructions:<br/>
   <br/>
   in HKEY_CURRENT_USER/FinalWork/SamuSaarikivi<br/><br/>
   
-  Download and unzip files above, <br/>
-  DLL and FinalWork folders are important<br/>
-  and Doxygen documentation is in Doxygen folder.
-  <br/><br/>
+ 
   
   Link to git used during development: </br>
   https://github.com/samusaarikivi/FinalWork
