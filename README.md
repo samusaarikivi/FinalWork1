@@ -16,6 +16,12 @@ Instructions:<br/>
   <br/>
   in HKEY_CURRENT_USER/FinalWork/SamuSaarikivi<br/><br/>
   
+  Example(in exe folder):</br></br>
+  FinalWork -w Name Jaakko</br>
+  adds name Name with value Jaakko to registry.</br></br>
+  FinalWork -h </br>
+  to view all available arguments.<br/><br/>
+  
  
   
   Link to git used during development: </br>
